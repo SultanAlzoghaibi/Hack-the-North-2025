@@ -1,0 +1,925 @@
+[
+    {
+        "courseName": "CPSC217",
+        "officialDesc": "Introduction to Computer Science for Multidisciplinary Studies I. Introduction to problem solving, analysis and design of small-scale computational systems and implementation using a procedural programming language.",
+        "redditData": [
+            {
+                "title": "Is CPSC217 Usually Offered in the Spring?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1n8r9eo/is_cpsc217_usually_offered_in_the_spring/",
+                "comments": [
+                    {
+                        "author": "Beneficial_Ad_5874",
+                        "body": "Yes. 217 and 231 are typical offered in the spring especially since they started admitting more students to CS.\n\nFair warning though, while they will cover all the content there too, it will probably be less thorough so if you will need this for the rest of your degree, get ready to do quite a bit of self studying",
+                        "score": 2
+                    }
+                ]
+            },
+            {
+                "title": "Is CPSC217 easy?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1m8c73l/is_cpsc217_easy/",
+                "comments": [
+                    {
+                        "author": "Urinal_Slurpee",
+                        "body": "Yes, as long as you take advantage of the TA\u2019s help during tutorials and put in a solid effort, it won\u2019t be hard. I went into it with no comp sci skills/python knowledge at all and got an A in it. If your instructor is James Tam, you could honestly skip the lectures and just go to tutorials and be fine. He\u2019s a dog shit prof and also a super weird dude.",
+                        "score": 6
+                    },
+                    {
+                        "author": "misonoo-nanako",
+                        "body": "It's not too bad. If you put some effort in you'll do pretty decently.",
+                        "score": 1
+                    },
+                    {
+                        "author": "nibor11",
+                        "body": "Yes basic python,  watch a couple youtube videos and u should be good.",
+                        "score": 1
+                    },
+                    {
+                        "author": "Fredd-D_ACL789",
+                        "body": "it does run a bit fast, but the profs and TAs are usually good. good luck!",
+                        "score": 1
+                    },
+                    {
+                        "author": "Impressive_Heat3960",
+                        "body": "Yeah it\u2019s design for students who are not in cs so it\u2019s relatively easy.",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC219",
+        "officialDesc": "Introduction to Computer Science for Multidisciplinary Studies II. Continuation of Introduction to Computer Science for Multidisciplinary Studies I. Emphasis on object-oriented analysis and design of small-scale computational systems.",
+        "redditData": [
+            {
+                "title": "Can't get into CPSC219 for Winter 2023",
+                "url": "https://www.reddit.com/r/UCalgary/comments/yrtxg7/cant_get_into_cpsc219_for_winter_2023/",
+                "comments": [
+                    {
+                        "author": "Zesty245",
+                        "body": "Damn I just checked the prof. Nathaly verwaal has a 2.8 overall rating and a 4.3 difficulty rating. To anyone doing this class as an option I highly recommend that you reconsider this decision. The class seems like hell. If you're doing this as an option do it with a better prof at a later time.",
+                        "score": 5
+                    },
+                    {
+                        "author": "Justout_377",
+                        "body": "As someone taking 219 with Verwaal right now I urge u to choose a different elective if you are not a comp sci major. I did 217 before with Hudson who was an amazing prof and was also active on discord and ready to help anytime.I previously had no coding experience and 217 was perfectly fine however 219 complete opposite.I was expecting the same type of lecture then assignment with office hours and all that. There\u2019s just a shit ton of assignments with minimal instructions with no lectures about the coding language itself. Overall there are 22 assignments and 22 quizzes and 1 project worth 50%. Really demanding course with really strict deadlines. \n\nThanks for listening  to my rant.",
+                        "score": 4
+                    },
+                    {
+                        "author": "ijustwantedtolurktho",
+                        "body": "Sorry man, that really sucks! Maybe try sending an email to the prof and/or making an appointment with a science advisor, they might have some advice",
+                        "score": 1
+                    },
+                    {
+                        "author": "Tessu-Desu",
+                        "body": "Its best to try in April or may. In Feb, see if it's offered for spring or summer. They're super popular classes so the reserved seats can be hard to acquire",
+                        "score": 1
+                    },
+                    {
+                        "author": "None",
+                        "body": "You wait until there\u2019s a space open in the class, or take it in another semester",
+                        "score": 1
+                    },
+                    {
+                        "author": "ChaoticxSerenity",
+                        "body": "Can you take 233 instead? Pretty sure it's the same thing, maybe a tiny bit more complex?",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "seek for textbooks and notes",
+                "url": "https://www.reddit.com/r/UCalgary/comments/ut0acq/seek_for_textbooks_and_notes/",
+                "comments": [
+                    {
+                        "author": "TheSiuuuuuuu",
+                        "body": "just my opinion: \nmath211- doesn\u2019t require a textbook as long as you understand prof\u2019s notes - I do believe they provided the textbook when I took it\nGRST211- there\u2019s an online PDF on this sub somewhere. Not up to date 100% but that\u2019s what I used and it was just fine",
+                        "score": 6
+                    },
+                    {
+                        "author": "None",
+                        "body": "You dont need a textbook for math 265 either",
+                        "score": 3
+                    },
+                    {
+                        "author": "casanova_anonymouse",
+                        "body": "Just need to memorize (and write down) formals for math 265 and 267, that's it.",
+                        "score": 3
+                    },
+                    {
+                        "author": "kindaCringey69",
+                        "body": "I can only speak for math/engineering courses but I never needed a textbook for my entire degree",
+                        "score": 3
+                    },
+                    {
+                        "author": "Ok-Barber-4268",
+                        "body": "Kahn academy was the only textbook I needed for math 265 & 267",
+                        "score": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC231",
+        "officialDesc": "Introduction to Computer Science for Computer Science Majors I. Introduction to problem solving, the analysis and design of small-scale computational systems, and implementation using a procedural programming language.",
+        "redditData": [
+            {
+                "title": "How do I know coding isn't for me?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1eqf8kg/how_do_i_know_coding_isnt_for_me/",
+                "comments": [
+                    {
+                        "author": "Dahwool",
+                        "body": "Try coding a project that sparks your interest in your own time.",
+                        "score": 17
+                    },
+                    {
+                        "author": "Jenko_man",
+                        "body": "Computer science does not necessarily mean you need to love writing code. It\u2019s actually a math degree at its core. \n\nYou can focus on taking theoretical comp sci courses and you won\u2019t really need to code that much at all.",
+                        "score": 13
+                    },
+                    {
+                        "author": "Novaxxxxx",
+                        "body": "Comp Sci is one of those degrees that doesn't lead you in a specific path. I am in software / web development and love it at the moment. However there are so many other fields you can break into. Cyber security, sys admin, business intelligence, business analyst, help desk, etc.\n\nCoding is very complicated but that is what is fun about it. I recommend working on projects with a language you're most comfortable with and try something out.\n\nI created a lot of my projects from researching online as I was creating it. I haven't created ANYTHING knowing everything about the language, libraries, extensions, etc.",
+                        "score": 6
+                    },
+                    {
+                        "author": "No_Yard4127",
+                        "body": "Yup, same here. I'm going into my third year of CS, and I absolutely hate it, lol. That being said, it's a valuable degree to have, ESPECIALLY if you don't want to be a software engineer. I hated my first 2 years of CS so much that it drove me to do door-to-door sales this summer. A CS degree will get your foot in the door for so many other jobs. Sales, consulting, and even investment banking. I view my CS degree as a stamp that says, \"I'm probably smart enough for you to take a chance on me,\" for employers to look at on my resume. Imo, All a CS degree is, is a 4 year aptitude test for high paying jobs.",
+                        "score": 3
+                    },
+                    {
+                        "author": "Accurate_Cricket3882",
+                        "body": "I had a tough time finding any joy and struggled in my comp sci program during the first two years coming from zero experience of coding. It wasn\u2019t until my third year that things started to click, and I had a few 'aha' moments after grinding more than usual.\n\n2nd year is pretty theoretical (from what I can remember, at least), so focusing on the why and how of creating applications and programs may help out in the long run of actual coding. Don't need to be a good coder to be good in computer science!",
+                        "score": 2
+                    },
+                    {
+                        "author": "Aggravating_Tip3441",
+                        "body": "For me, I struggled with coding but honestly find a passion project for something to code for. You just have to find something that interests you. We all chose our degrees not only we want to do something with it professionally but for something we want to do as a hobby, too. Coding for leisure is always better than having to be forced to code. In general, I feel like studying something outside of school could revive your passion.\n\nSometimes it might be a good idea to talk about your own personal coding projects to professors so they can see that you\u2019re being more than just a student in their class. I know this because I once showed one of my projects which ended up being added to the course material.\n\nThe thing about computer science is that you\u2019re basically studying linguistics and there\u2019s so much to explore. Of course, you\u2019re going to mature your skills later on and build confidence. However, it\u2019s  hard to say what you really want in terms of CPSC because it\u2019s so vast but maybe you might be interested in specific areas of computer science. \n\nIf coding might not be for you or if you begin to doubt your passion, then probably take some classes that interest you while taking cpsc, talk to an advisor, or even try a semester with little cpsc involved to actually see if you really enjoy coding. \n\nGood luck!",
+                        "score": 2
+                    },
+                    {
+                        "author": "ChaoticxSerenity",
+                        "body": "Your job doesn't need to be your passion. It's okay that a job is just a means to an end (that end usually being financial).",
+                        "score": 2
+                    },
+                    {
+                        "author": "None",
+                        "body": "consider getting involved in extracurricular activities or internships that allow you to explore different fields.",
+                        "score": 2
+                    }
+                ]
+            },
+            {
+                "title": "sched for cpsc first year student",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1ekupm0/sched_for_cpsc_first_year_student/",
+                "comments": [
+                    {
+                        "author": "crispy_doggo1",
+                        "body": "Slightly harder than normal first year schedule but if you stay on top of everything you\u2019ll be fine",
+                        "score": 2
+                    },
+                    {
+                        "author": "fatbillybobb",
+                        "body": "Winter might be a little tough",
+                        "score": 2
+                    },
+                    {
+                        "author": "Obisss",
+                        "body": "Any 4 class semester is easy you are fine.  Some people struggle with CPSC251 for some reason but other than that you don't really have any particularly hard classes, CPSC329 is probably the easiest class out of any of these.",
+                        "score": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC233",
+        "officialDesc": "Introduction to Computer Science for Computer Science Majors II. Continuation of Computer Science 231. Emphasis on object-oriented analysis and design of small-scale computational systems.",
+        "redditData": [
+            {
+                "title": "How can there be no CPSC233 next fall?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/82fnx6/how_can_there_be_no_cpsc233_next_fall/",
+                "comments": [
+                    {
+                        "author": "ashpplejack",
+                        "body": "Big brother is watching:\n\nHi Everyone,\n\nYou have probably noticed that we've made some changes to the scheduling of courses in Computer Science.  The changes are motivated by the fact that many of you were not able to get a seat in the course when you needed to take the course.  To try to fix this we:\n\n* made more seats available in a course in the semester that students most commonly take the course (and that allows for completion of the degree in time).  This did mean that we could not offer courses in both Fall and Winter semesters anymore.  To adjust for this, all required courses will be offered during the Spring semester, starting in Spring 2018.\n\n* reserved seats for students that need it.  In the required courses, all seats are held until August for students that need the course to complete their degree.  In courses that are required for a concentration, a portion of the seats are held for those that have the concentration declared.  Note that these are only held until the middle of April.\n\nIf a course is full and you have trouble registering in the course that you need for your \n\na) degree, contact the department before August 2018;\n\nb) concentration, contact the department before April 15 2018.\n\nOne final note: all SENG courses are open to Computer Science students.  SENG 401 and 437 are offered by the Faculty of Engineering next year.  Computer Science students have to manually be added to the list of students that are allowed to take the course.  If you wish to take either of these two courses, contact USC and they will add you to the list of students allowed to register in the course.\n\nBest wishes",
+                        "score": 9
+                    },
+                    {
+                        "author": "MultidimensionalNut",
+                        "body": "This has basically ruined my plans and is gonna cause annoying problems",
+                        "score": 6
+                    },
+                    {
+                        "author": "Qurkie",
+                        "body": "\u201cHi,\n \nUnfortunately due to instructor availability we are not offering CPSC 233 in the Fall like we usually do.\n \nSpring/Summer are extra semesters not regular semesters like Fall and Winter and are not required to have courses running in them. We only started offering courses in Spring a few years ago with the influx of transfers to our program.\n \nCPSC 219 is the follow on for CPSC 217 and since it is not for our majors it is only ever offered in Winter.\n \nCPSC 235 is no longer offered and hasn\u2019t been on our books for a few years now.\n \nUnfortunately if we do not have an instructor to teach a course we cannot run it, and for Fall that means we cannot offer 233.\n \nThanks,\u201d\n\n- Catherine Cummings, Undergraduate Coordinator & Administrative Assistant \n\nThe response I got after requesting further information on the matter. \n\nLogistically, I hope the department understands that this makes *absolutely no sense*. Why are you offering 231 in spring if the course following it is not offered until Winter? Taking 231 in spring is completely useless now. They need to either hire a temporary instructor, or remove a course so 233 is offered, or don\u2019t offer 231 in spring. ",
+                        "score": 3
+                    },
+                    {
+                        "author": "ashpplejack",
+                        "body": "I'm equal parts surprised and not at all surprised...",
+                        "score": 2
+                    },
+                    {
+                        "author": "Megaranger",
+                        "body": "department sent an email saying that they will start only offering certain courses in specific semesters.",
+                        "score": 2
+                    },
+                    {
+                        "author": "StetsonTuba8",
+                        "body": "Perhaps it's jist not in the course scheduler for some reason?\nENGG 311 (I think, maybe 317) isn't on the scheduler builder, but I found it listed online",
+                        "score": 1
+                    },
+                    {
+                        "author": "PlasMa1060",
+                        "body": "Where did you read this? ",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "How to Continue Java Programming Studies at UofC after CPSC233?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/5i0uzp/how_to_continue_java_programming_studies_at_uofc/",
+                "comments": [
+                    {
+                        "author": "Castingdoom",
+                        "body": "To put it bluntly, no. \n\nOkay to put it a bit less bluntly, I haven't taken a single course past 233 that was meant for learning Java. \n\nBasically, from second year and onwards, you're expected to know how to program for your courses, whether it's Java for your algorithms and data structures, or C++ for your networking and OS. There's nothing else that'll teach you, other than maybe some TAs doing a review on languages for people unfamiliar. \n\nI'd highly recommend, if you want to stay current, just keep practicing. Come up with an idea for a program that you'd be interested in making. Fork repos from git and poke around, see if you can write something to contribute. Just stay working on a project. \n\nOf course, I always feel coding is like riding a bike, where you may temporarily forget, but it'll always come back to you. With that, I wouldn't be too worried about taking a semester break, but you might be different from me. \n\nThe one other thing, most of my course choices were geared towards my degree requirement and I never took anything like advanced programming, so you may have some luck there. ",
+                        "score": 5
+                    },
+                    {
+                        "author": "Curius0ne",
+                        "body": "iirc a few courses in CPSC has java components. Namely CPSC449 AND SENG 301. The goal of taking CPSC at university compared to say SAIT is to teach you the fundamentals about how to code and where to look up information so you can learn it yourself. Instead of teaching you the exact syntax of a certain language. So if you would like to further learning about java. There are practices online. Maybe join a club (problem solving club). Or even do a little project on your own using java. There are a lot of ways to learn a language. Learning from a course is not the only way to better one self. ",
+                        "score": 4
+                    },
+                    {
+                        "author": "cdc143",
+                        "body": "To add to this, the reason why this is the case is twofold. Firstly, comp sci is mostly about problem solving and algorithms for doing so, not just to teach you a smattering of the current hot languages. There's just not enough space in the curriculum for these things either. Secondly, there's just not enough new material you could learn in Java to constitute making a course, and most of the more recent additions to the language (generics, lambdas etc) are things that you can pick up yourself fairly easily by using online tutorials and documentation.",
+                        "score": 2
+                    },
+                    {
+                        "author": "sarahriffic",
+                        "body": "CPSC331 (information structures) AND CPSC 441 (networking) both required Java for the assignments when I took them. This was several years ago but I assume Java is still used a lot for teaching. Anyone know for sure? \n\nBest bet is to try to work on some personal projects. Building the habit now will make a huge difference in your career, especially when you first enter the job market.",
+                        "score": 1
+                    },
+                    {
+                        "author": "Barley12",
+                        "body": "You can pretty much use Java for everything.  You won't be learning it specifically but just keep up with design on your projects. Really you will be able to adjust to any language ",
+                        "score": 1
+                    },
+                    {
+                        "author": "None",
+                        "body": "Hey, me too. Good luck on the final tomorrow. ",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC235",
+        "officialDesc": "Advanced Introduction to Computer Science. An accelerated introduction to problem solving, the analysis and design of small-scale computational systems and implementation using both procedural and object-oriented programming languages.",
+        "redditData": []
+    },
+    {
+        "courseName": "CPSC251",
+        "officialDesc": "Theoretical Foundations of Computer Science I. Recursion and iteration. Specification of algorithmic problems. Fundamental proof techniques in computer science. Discrete structures such as sets, relations, and functions.",
+        "redditData": [
+            {
+                "title": "What's the hardest class?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/srutb2/whats_the_hardest_class/",
+                "comments": [
+                    {
+                        "author": "alzhang8",
+                        "body": "Math 211 according to reddit\n\nE: obviously a joke",
+                        "score": 99
+                    },
+                    {
+                        "author": "None",
+                        "body": "[deleted]",
+                        "score": 46
+                    },
+                    {
+                        "author": "mrchaeyoung",
+                        "body": "I know a lot of people aren\u2019t fond of Math 271",
+                        "score": 36
+                    },
+                    {
+                        "author": "Virtual-View1853",
+                        "body": "Ive heard ENME 708 is the stuff of legends, the final boss of engg",
+                        "score": 14
+                    },
+                    {
+                        "author": "bananashakewithice",
+                        "body": "STATS 321 or math 445",
+                        "score": 12
+                    },
+                    {
+                        "author": "YYCHKG",
+                        "body": "throwback to first year engg 201 lmao",
+                        "score": 23
+                    },
+                    {
+                        "author": "-ADILLION-",
+                        "body": "CPSC457\n\nMATH271\n\nedit: also literally anything with denzinger",
+                        "score": 17
+                    },
+                    {
+                        "author": "hella-confused0",
+                        "body": "poli 321 with sayers \ud83e\udd72\ud83d\udc4d",
+                        "score": 10
+                    },
+                    {
+                        "author": "MYaski",
+                        "body": "Phys 449/451- Stat mech 1 and 2. Or phys 543 - quantum 2",
+                        "score": 10
+                    },
+                    {
+                        "author": "BoyNextDoor722",
+                        "body": "cpsc 413",
+                        "score": 9
+                    },
+                    {
+                        "author": "LvlingUpDaily",
+                        "body": "Math 273 (Honours version of 271) is probably the hardest 200-level course at U of C.",
+                        "score": 8
+                    },
+                    {
+                        "author": "nightshade78036",
+                        "body": "Math 315 (Algebra 1) is easily the hardest class I've ever taken. Generally higher level pure math courses are the hardest courses I've taken as a runner up but special mentions go out to Phys 449/451 stat mech 1 and 2 as mentioned by others.",
+                        "score": 5
+                    },
+                    {
+                        "author": "brenzyc",
+                        "body": "Which class Dr. El-Hatcha is teaching.",
+                        "score": 4
+                    },
+                    {
+                        "author": "bubble0176",
+                        "body": "Cpsc251 \ud83d\ude14",
+                        "score": 5
+                    },
+                    {
+                        "author": "heygirlhey2407",
+                        "body": "Chem 471 too much stuff to do",
+                        "score": 3
+                    },
+                    {
+                        "author": "None",
+                        "body": "GLGY 313 - mineralogy. Lots of hard things covered in this course :) hahahahaHAHAHAHAHAHHAAHHAAHAHHAHAHA cuz its rocks HAHAHAHAHHA",
+                        "score": 4
+                    },
+                    {
+                        "author": "conheoro",
+                        "body": "Math 335",
+                        "score": 2
+                    },
+                    {
+                        "author": "pugsforpupcakes",
+                        "body": "I like this post....let the pissing contest begin!",
+                        "score": 2
+                    },
+                    {
+                        "author": "DKC65",
+                        "body": "Organic chemistry. Chem 351",
+                        "score": 1
+                    },
+                    {
+                        "author": "Muted-Doctor8925",
+                        "body": "Econ 301 used to have the high fail rate a few years ago",
+                        "score": 0
+                    },
+                    {
+                        "author": "hau2906",
+                        "body": "MATH511/607",
+                        "score": 0
+                    },
+                    {
+                        "author": "Stingray306",
+                        "body": "Druid\n\n\nOh, oop nvm",
+                        "score": 0
+                    },
+                    {
+                        "author": "lost_my_keys249",
+                        "body": "The lower class.",
+                        "score": 0
+                    },
+                    {
+                        "author": "Creative_Ad_1458",
+                        "body": "economics two hundred and one is pretty challenging",
+                        "score": -11
+                    },
+                    {
+                        "author": "brepik",
+                        "body": "Phys 435",
+                        "score": -2
+                    },
+                    {
+                        "author": "Sarah_yu120",
+                        "body": "Data 305 and FNCE 317 and Opma 415",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "Jialin Hua as a Math 211 prof?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1hm7e07/jialin_hua_as_a_math_211_prof/",
+                "comments": [
+                    {
+                        "author": "5a1amand3r",
+                        "body": "If there\u2019s no rate my prof data, they are probably a first time prof and it\u2019s a toss up between how good or bad they might be.",
+                        "score": 9
+                    },
+                    {
+                        "author": "PushaT123",
+                        "body": "How is Mahmoud Abdulkarim Alfadel? I might have a class with him in the fall.",
+                        "score": 1
+                    },
+                    {
+                        "author": "hijabewebsurfer",
+                        "body": "what did it end up being?? i have to take 211 in the spring and they\u2019ll be teaching it. What can i expect?",
+                        "score": 1
+                    },
+                    {
+                        "author": "alzhang8",
+                        "body": "If they are bad just go to a different section of lectures instead",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC304",
+        "officialDesc": "A Survey of Computer Science for Non-Majors. An exploration of the breadth of computer science including both classical subjects and topics of current and ongoing interest. The focus of the course will be on the impact of computing on society.",
+        "redditData": [
+            {
+                "title": "Upper Year Science Option for Spring: CPSC 304 A Survey of Computer Science for Non-Majors",
+                "url": "https://www.reddit.com/r/UCalgary/comments/l7um3c/upper_year_science_option_for_spring_cpsc_304_a/",
+                "comments": [
+                    {
+                        "author": "None",
+                        "body": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+                        "score": 11
+                    },
+                    {
+                        "author": "ekans19",
+                        "body": "Can highly recommend taking this course with Dr. Stephenson!",
+                        "score": 10
+                    },
+                    {
+                        "author": "Kakirax",
+                        "body": "Dr. Stephenson is one of the best profs in the department",
+                        "score": 4
+                    },
+                    {
+                        "author": "None",
+                        "body": "As someone who took this course when it was CPSC 399.4, I would definitely recommend this course, especially if you want to know more about the various fields of computer science without much intensive work.",
+                        "score": 4
+                    },
+                    {
+                        "author": "ilclwamh",
+                        "body": "I took this course last term and absolutely loved it! Would highly recommend it! You might get to witness Dr. Stephenson play Super Mario Bros like a pro.",
+                        "score": 2
+                    },
+                    {
+                        "author": "SwitchelSta3",
+                        "body": "Would this course count towards 300 level prerequisites down the line when I would eventually switch my degree.",
+                        "score": 1
+                    },
+                    {
+                        "author": "beehann",
+                        "body": "Hey! in the \"notes\" section it says \"In several cases, credit is not allowed for Computer Science courses and various courses offered by the Faculty of Engineering.\" Who does this apply to?",
+                        "score": 1
+                    },
+                    {
+                        "author": "idrk7621",
+                        "body": "Hi! I\u2019m looking to enrol but my uofc portal says that I do not meet the prerequisites for the course, I\u2019m a biology major and have never taken any computer science courses before. Is there a way to resolve this issue so that I can enrol?",
+                        "score": 1
+                    },
+                    {
+                        "author": "Afraid_Possibility98",
+                        "body": "I'm currently a non-major in CPSC217 and I find it quite difficult. What is this course like in comparison? I know it might be difficult to compare since the courses aren't very alike, however, I do need 1 more CPSC course for my degree, and I'm not sure which would be best to take (and which is \"easiest\"). Will this course be offered in Fall 2021? Or Winter 2022?",
+                        "score": 1
+                    },
+                    {
+                        "author": "kmd2701",
+                        "body": "Hello! \n\nI am interested in taking CPSC-304 this spring however I am unable to attend the live lectures. Will the lectures be recorded and uploaded regularly/promptly? If I am unable to attend the live lectures, would this potentially hinder my success in the course in any way?",
+                        "score": 1
+                    },
+                    {
+                        "author": "Cockroach-Boy",
+                        "body": "Thanks for this! I loved programming when I got a change to do basic stuff in junior high so I'm excited to ease back in. More excited for spring now!",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC313",
+        "officialDesc": "Introduction to Computability. An introduction to abstract models of sequential computation, including finite automata, regular expressions, context-free grammars, and Turing machines.",
+        "redditData": [
+            {
+                "title": "CPSC313. See y'all in Spring 2020",
+                "url": "https://www.reddit.com/r/UCalgary/comments/djhym0/cpsc313_see_yall_in_spring_2020/",
+                "comments": [
+                    {
+                        "author": "HippotyHoppitus",
+                        "body": "what happened",
+                        "score": 5
+                    },
+                    {
+                        "author": "None",
+                        "body": "[deleted]",
+                        "score": 4
+                    },
+                    {
+                        "author": "Quan385",
+                        "body": "F....FSA",
+                        "score": 3
+                    },
+                    {
+                        "author": "charliex3000",
+                        "body": "Who's this semester's professor? It wasn't that bad when I took it in Spring 2019. CPSC 331 was worse.",
+                        "score": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC319",
+        "officialDesc": "Data Structures, Algorithms, and Their Applications. Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. Introduction to analysis of algorithms. Applications of these data structures and algorithms.",
+        "redditData": [
+            {
+                "title": "Anybody have CPSC319 Summer 2022 discord link?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/vrsaxd/anybody_have_cpsc319_summer_2022_discord_link/",
+                "comments": []
+            },
+            {
+                "title": "Should I choose Farhad Maleki or Richard Zhao for CPSC 231?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/144lwsm/should_i_choose_farhad_maleki_or_richard_zhao_for/",
+                "comments": [
+                    {
+                        "author": "MaximumFood99",
+                        "body": "If only there was a website for such comparisons \ud83e\uddd0\n\nratemyprofessors.com",
+                        "score": 5
+                    },
+                    {
+                        "author": "IAMRETURD",
+                        "body": "It\u2019s 231 lol it doesn\u2019t matter",
+                        "score": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC329",
+        "officialDesc": "Explorations in Information Security and Privacy. A broad survey of topics in information security and privacy, with the purpose of cultivating an appropriate mindset for approaching security and privacy problems.",
+        "redditData": [
+            {
+                "title": "Optional decision CPSC329 or GLGY305",
+                "url": "https://www.reddit.com/r/UCalgary/comments/101qwp3/optional_decision_cpsc329_or_glgy305/",
+                "comments": [
+                    {
+                        "author": "81008118",
+                        "body": "I did GLGY 305 and it wasn't terrible.  Get the textbook, read it well, and you should be fine.",
+                        "score": 1
+                    },
+                    {
+                        "author": "None",
+                        "body": "CPSC 329 is a course where you walk away thinking, huh, I could\u2019ve definitely googled this all. It\u2019s definitely very relaxed, the prof teaching it this winter is really good.\n\nNot too sure about GLGY.",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "cpsc329 assignment 3",
+                "url": "https://www.reddit.com/r/UCalgary/comments/8e0xn6/cpsc329_assignment_3/",
+                "comments": [
+                    {
+                        "author": "Diminitiv",
+                        "body": "Nothing yet.",
+                        "score": 1
+                    },
+                    {
+                        "author": "Safetyman_SPG",
+                        "body": "I have mine, check the dropbox section",
+                        "score": 1
+                    },
+                    {
+                        "author": "__inky",
+                        "body": "I don\u2019t have mine back yet ",
+                        "score": 1
+                    },
+                    {
+                        "author": "AWYEAHHHH",
+                        "body": "Nothing yet for me either",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC331",
+        "officialDesc": "Data Structures, Algorithms, and Their Analysis. Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. Introduction to analysis of algorithms.",
+        "redditData": [
+            {
+                "title": "cpsc331 final",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1hbddga/cpsc331_final/",
+                "comments": [
+                    {
+                        "author": "Myst0709",
+                        "body": "I am a straight A student and that shit messed me up badly too.. what makes it all worse is I asked the prof about the level of difficulty and he said its gonna be much easier than assignments.",
+                        "score": 9
+                    },
+                    {
+                        "author": "Weak_Situation2732",
+                        "body": "Same here lol that final was criminal like what \ud83d\udc80",
+                        "score": 6
+                    },
+                    {
+                        "author": "realrxtooturbo",
+                        "body": "If it makes you feel any better I think I will have to retake that class",
+                        "score": 2
+                    },
+                    {
+                        "author": "ice_zephyr",
+                        "body": "Hey if it makes you feel any better, shit fucked me up when I took it a couple years ago. Looks like it hasn't gotten any better since then.",
+                        "score": 2
+                    },
+                    {
+                        "author": "hotchocolate0307",
+                        "body": "You and me both bro",
+                        "score": 2
+                    },
+                    {
+                        "author": "Weak_Situation2732",
+                        "body": "I went to every single lecture and studied it just wasn\u2019t possible I\u2019ve never taken an exam in my life like this and I\u2019ve never got below a B+ in my life but this one is looking like an F",
+                        "score": 1
+                    },
+                    {
+                        "author": "Weak_Situation2732",
+                        "body": "I relate so much like another month wouldn\u2019t have done anything it just made me give up like it wasn\u2019t fair",
+                        "score": 1
+                    },
+                    {
+                        "author": "StockFinding601",
+                        "body": "Same here man\ud83d\ude1e\ud83d\ude42\u200d\u2195\ufe0f",
+                        "score": 1
+                    },
+                    {
+                        "author": "fatbillybobb",
+                        "body": "Wtf was the last question bruh \ud83d\udc80",
+                        "score": 1
+                    },
+                    {
+                        "author": "Nervous_Currency9341",
+                        "body": "the exams over so heres my advice:\n\n1. hopefully u get a good grade or at least a c-\n\n2. retake it in spring and really focus on this course as its a prerequisite to a bunch of classes\n\nif you do retake it make sure you really learn the stuff the way the new prof teaches it and practice practice practice!",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "CPSC331 with zongpeng",
+                "url": "https://www.reddit.com/r/UCalgary/comments/7acv2a/cpsc331_with_zongpeng/",
+                "comments": [
+                    {
+                        "author": "Bushido_Plan",
+                        "body": "How come he didn't show up for two weeks?",
+                        "score": 6
+                    },
+                    {
+                        "author": "None",
+                        "body": "Algorithms is always a shit show, but any prof blaming a class **average** of 33% on the students is out to lunch.",
+                        "score": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC335",
+        "officialDesc": "Intermediate Information Structures. A continuation of Computer Science 331. Collision resolution in hash tables, search algorithms, advanced tree structures, strings. Advanced algorithm design and analysis.",
+        "redditData": []
+    },
+    {
+        "courseName": "CPSC351",
+        "officialDesc": "Theoretical Foundations of Computer Science II. Discrete probability spaces and distributions. Random variables, expectation, tail bounds. Independence and conditional probability. Repeated trials and probabilistic methods.",
+        "redditData": [
+            {
+                "title": "Failed CPSC351",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1c8hgov/failed_cpsc351/",
+                "comments": [
+                    {
+                        "author": "keating555",
+                        "body": "You are not alone. I also probably failed 351. And my first time in this position as well.",
+                        "score": 8
+                    },
+                    {
+                        "author": "Nervous_Currency9341",
+                        "body": "lets see if u passed it cause u never know but unfortuently since its a prerequisite for like 413 and if you get demoted to d u will have to retake it :( when get grade or now should get advising appt. id suggest going over the material over the spring/summer and filling in the gaps so you can pass next time. good luck!",
+                        "score": 5
+                    },
+                    {
+                        "author": "No_Payment6592",
+                        "body": "They mark very leniently as long as u explained ur thought process or even got some ideas down on your paper there\u2019s a good chance they\u2019ll give u partial makrs",
+                        "score": 3
+                    },
+                    {
+                        "author": "None",
+                        "body": "Which prof",
+                        "score": 1
+                    },
+                    {
+                        "author": "okotoker",
+                        "body": "I was fairly certain I did exactly this. Stressed for no reason. I have a B in the class after getting my final mark. Not great but way better than my brain convinced me was a certainty.",
+                        "score": 1
+                    }
+                ]
+            },
+            {
+                "title": "guys please help",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1jocemq/guys_please_help/",
+                "comments": [
+                    {
+                        "author": "MrGrumpyFac3",
+                        "body": "I don't know. If you speak Spanish, then yes , it is manageable. Learning a new language while tackle core subjects can be hard. The winter semester looks pretty busy. For cryptography, you can select the cpsc option but it is the same class. I found it manageable, but because I suck at cpsc, the final was brutal. The math is not too bad if you are OK with proofs and are comfortable with number theory.",
+                        "score": 5
+                    },
+                    {
+                        "author": "sheuenej",
+                        "body": "Winter, I\u2019d be a bit concerned if your taking math 318 with Renate Scheidler, it was the heaviest course I ever took in my entire cpsc degree. So pairing that with a couple more compsci would suck. But if she\u2019s not the prof, you\u2019ll be okay.",
+                        "score": 2
+                    },
+                    {
+                        "author": "AdVivid6382",
+                        "body": "Why would you take psych 200 in fall and not 201 in winter? I'm not seeing a coherent plan here. Begin with the end in mind my brother.",
+                        "score": 2
+                    },
+                    {
+                        "author": "Tall-Bullfrog6033",
+                        "body": "You tryna kill yourself?",
+                        "score": 1
+                    },
+                    {
+                        "author": "Big-Masterpiece182",
+                        "body": " you need CPSC 331 as a prerequisite for SENG 300, they changed the course outlines this year!",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC355",
+        "officialDesc": "Computing Machinery I. An introduction to computing machinery establishing the connection between programs expressed in a compiled language, an assembly language, and machine language.",
+        "redditData": [
+            {
+                "title": "CPSC355 Grades?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/aanfdw/cpsc355_grades/",
+                "comments": [
+                    {
+                        "author": "arcticfox",
+                        "body": "I sent Len this email just now:\n\n\\---\n\nHey Len,\n\nLong time no chat.\u00a0 I hope that you are doing well and that you and family had a great Christmas.\n\nThings are going well down here.\n\nJust  an amusing note.\u00a0 What prompted me to send you this note is that I ran  across a post on reddit where some of your CPSC 355 students were  grumbling that they haven't got their final grades yet!\u00a0\n\nYou really should get on that! :-)\n\nAll best wishes,\n\nCraig\n\n\\---\n\n&#x200B;\n\nHopefully it helps! :-)",
+                        "score": 13
+                    },
+                    {
+                        "author": "AlkaKadri",
+                        "body": "The prof\u2019s probably already submitted their grades. It\u2019s the department/registrar that put them up on MyUofC I think, and they\u2019re on holiday. I wouldn\u2019t expect anything till Jan 2nd when the university is open again.",
+                        "score": 6
+                    },
+                    {
+                        "author": "steve-gq",
+                        "body": "THEY'RE UP BOYS",
+                        "score": 3
+                    },
+                    {
+                        "author": "GarrettDz",
+                        "body": "I'm still waiting too :/",
+                        "score": 2
+                    },
+                    {
+                        "author": "Sleempeem",
+                        "body": "I remember when I took his class, we got our final grade on the last possible day. Might be something he normally does.",
+                        "score": 2
+                    },
+                    {
+                        "author": "None",
+                        "body": "We already got our 359 grades (also Manzara) so yours might be coming up soon. ",
+                        "score": 2
+                    },
+                    {
+                        "author": "dynamicthoughts",
+                        "body": "Same, I've been waiting so long! 15 days, it's been a while.",
+                        "score": 1
+                    },
+                    {
+                        "author": "kellycheese",
+                        "body": "Lol like okay me too yeah like way word okay maybe ",
+                        "score": -5
+                    }
+                ]
+            },
+            {
+                "title": "CPSC355 and full time job",
+                "url": "https://www.reddit.com/r/UCalgary/comments/ghzsnk/cpsc355_and_full_time_job/",
+                "comments": [
+                    {
+                        "author": "Qsqrt-3299",
+                        "body": "It depends on how much time you are willing to put into it. It\u2019s definitely doable but you probably won\u2019t have any free time",
+                        "score": 6
+                    },
+                    {
+                        "author": "juevch97",
+                        "body": "CPSC 355 was a normal amount of work load when I took it. The class structure may likely be very different due to the fact that we're online. You should be okay.\n\nCPSC 359 was disgusting. This course straight up took up all my time working in the pi labs. I wonder what the class will look like in the Fall tho given that online/in person class is still up in the air.",
+                        "score": 5
+                    },
+                    {
+                        "author": "None",
+                        "body": "[deleted]",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC359",
+        "officialDesc": "Computing Machinery II. An introduction to hardware and microprocessor design, including the connection between gate-level digital logic circuits and sequential machines to the microarchitecture of a processor.",
+        "redditData": [
+            {
+                "title": "Tutor for CPSC359 (URGENT)",
+                "url": "https://www.reddit.com/r/UCalgary/comments/6hhaux/tutor_for_cpsc359_urgent/",
+                "comments": [
+                    {
+                        "author": "None",
+                        "body": "Just wondering, do you guys have to make a game as well ? What game do you have to make?",
+                        "score": 1
+                    },
+                    {
+                        "author": "Megaranger",
+                        "body": "I took the class last semester and did quite well on the game so I'm willing to help if youre interested",
+                        "score": 1
+                    },
+                    {
+                        "author": "None",
+                        "body": "[deleted]",
+                        "score": 0
+                    }
+                ]
+            },
+            {
+                "title": "Can u guys rate my sched for winter 2021?",
+                "url": "https://www.reddit.com/r/UCalgary/comments/g84r1g/can_u_guys_rate_my_sched_for_winter_2021/",
+                "comments": [
+                    {
+                        "author": "CarFishing",
+                        "body": "It's on the heavy but doable side.",
+                        "score": 6
+                    },
+                    {
+                        "author": "MaximumFood99",
+                        "body": "PHIL, SENG and CPSC359 are a breeze. PHIL314 is basically 2 essays and 1 paper. SENG300 is not a lot of material, project is doable if you\u2019re good at coding. My group did the entire thing a week before it was due. CPSC359 is a great course and is definitely not a lot of work as long as you keep up with the lectures. CPSC 313 with Eberly, I\u2019m not so sure about. His lectures are difficult enough to understand in person as is, I wonder how it\u2019ll go online (if it happens). Good-luck tho!",
+                        "score": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC365",
+        "officialDesc": "C++ Programming. Introduction to the C++ language, with an emphasis on its advanced language constructs and features. Techniques for writing time and space efficient code.",
+        "redditData": []
+    },
+    {
+        "courseName": "CPSC383",
+        "officialDesc": "Explorations in Artificial Intelligence and Machine Learning. A survey of artificial intelligence and machine learning tools to cultivate an understanding of their capability, utility, and societal/ethical/legal implications.",
+        "redditData": [
+            {
+                "title": "CPSC383",
+                "url": "https://www.reddit.com/r/UCalgary/comments/1eqihe0/cpsc383/",
+                "comments": [
+                    {
+                        "author": "Amasil",
+                        "body": "This is the first time this course is being offered so no one knows. But both Hudson and Janet are fantastic teachers. But both their tests can be difficult if you don't understand the fundamentals.",
+                        "score": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseName": "CPSC393",
+        "officialDesc": "Metacognition in Self-directed Learning Methodologies. Remain current in Computer Science as this field evolves by developing a reflective life-long learning practice. Independent student work will include analysis, reflection, and project work.",
+        "redditData": []
+    },
+    {
+        "courseName": "CPSC398",
+        "officialDesc": "Topics in Computer Science. Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for timely coverage of topics of student interest.",
+        "redditData": []
+    }
+]
