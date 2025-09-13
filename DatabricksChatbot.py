@@ -14,17 +14,11 @@ class DatabricksChatbot:
 
     def _create_layout(self):
         return html.Div([
-            html.H2('Chat with Databricks AI', className='chat-title mb-3'),
-            html.Div([
-                "Note: this is a simple example. See ",
-                html.A("Databricks docs", href="https://docs.databricks.com/aws/en/generative-ai/agent-framework/chat-app", target="_blank"),
-                " for a more comprehensive example, with support for streaming output and more."
-            ]),
             dbc.Card([
                 dbc.CardBody([
                     html.Div(id='chat-history', className='chat-history'),
                 ], className='d-flex flex-column chat-body')
-            ], className='chat-card mb-3'),
+            ], className='chat-card mb-3 flex-grow-1 d-flex flex-column'),
             dbc.InputGroup([
                 dbc.Input(id='user-input', placeholder='Type your message here...', type='text'),
                 dbc.Button('Send', id='send-button', color='success', n_clicks=0, className='ms-2'),
@@ -140,13 +134,13 @@ class DatabricksChatbot:
         }
         .chat-container {
             max-width: 800px;
-            margin: 0 auto;
+            margin: 40px auto;
             background-color: #FFFFFF;
             border-radius: 10px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            height: 100vh;
             display: flex;
             flex-direction: column;
+            flex: 1 1 auto;
         }
         .chat-title {
             font-size: 24px;
@@ -172,6 +166,7 @@ class DatabricksChatbot:
             flex-grow: 1;
             overflow-y: auto;
             padding: 15px;
+            max-height: 70vh; /* Cap height so it scrolls after a point */
         }
         .message-container {
             display: flex;
@@ -237,6 +232,7 @@ class DatabricksChatbot:
         }
         .input-group {
             flex-wrap: nowrap;
+            margin-top: auto; /* Keep input bar at the bottom */
         }
         '''
         self.app.index_string = self.app.index_string.replace(
