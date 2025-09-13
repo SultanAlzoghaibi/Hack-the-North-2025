@@ -1,10 +1,17 @@
 import praw
 
 reddit = praw.Reddit(
-    client_id="YOUR_CLIENT_ID",
-    client_secret="YOUR_SECRET",
+    client_id="MrRBg1SXCzBh-jlnsX6mMg",
+    client_secret="JXKBj-v6tibcJ6rY4EPttWPBPIczog",
     user_agent="htn-reddit-scraper"
 )
 
-for post in reddit.subreddit("hackathon").hot(limit=5):
-    print(post.title)
+subreddit = reddit.subreddit("uofc+UCalgary+UofCalgary+Calgary")  # combine subs just in case
+
+# Perform a search
+for post in subreddit.search("cpsc 355", sort="new", limit=5):
+    print(f"📌 {post.title}")
+    print(f"🔗 {post.url}")
+    print(f"⬆️ {post.score} | 💬 {post.num_comments} | 🕒 {post.created_utc}")
+    print("---")
+    time.sleep(1)
