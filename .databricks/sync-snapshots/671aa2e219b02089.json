@@ -1,0 +1,29 @@
+{
+  "version": "v1",
+  "host": "https://dbc-31e51abb-f271.cloud.databricks.com",
+  "remote_path": "/Workspace/Users/zhangandrew889@gmail.com/databricks_apps/course-intelligence_2025_09_13-14_57/dash-chatbot-app",
+  "last_modified_times": {
+    "DatabricksChatbot.py": "2025-09-13T12:00:10.809395459-04:00",
+    "app.py": "2025-09-13T12:00:10.965971921-04:00",
+    "app.yaml": "2025-09-13T12:00:11.178515393-04:00",
+    "bot.py": "2025-09-13T11:59:21.183051585-04:00",
+    "model_serving_utils.py": "2025-09-13T12:00:11.402875308-04:00",
+    "requirements.txt": "2025-09-13T11:59:21.183153377-04:00"
+  },
+  "local_to_remote_names": {
+    "DatabricksChatbot.py": "DatabricksChatbot.py",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "bot.py": "bot.py",
+    "model_serving_utils.py": "model_serving_utils.py",
+    "requirements.txt": "requirements.txt"
+  },
+  "remote_to_local_names": {
+    "DatabricksChatbot.py": "DatabricksChatbot.py",
+    "app.py": "app.py",
+    "app.yaml": "app.yaml",
+    "bot.py": "bot.py",
+    "model_serving_utils.py": "model_serving_utils.py",
+    "requirements.txt": "requirements.txt"
+  }
+}
