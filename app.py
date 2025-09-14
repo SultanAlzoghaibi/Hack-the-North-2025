@@ -1,23 +1,5 @@
+# Ensure environment variable is set correctly
 import os
-import dash
-import dash_bootstrap_components as dbc
-from dash import html, dcc, Input, Output, State
-from DatabricksChatbot import DatabricksChatbot
-from model_serving_utils import is_endpoint_supported
-
-# ==========================================================
-# 🔗 DATABASE CONNECTION (Databricks)
-# Replace with your own Databricks SQL / Unity Catalog connection
-# Example: via databricks-sql-connector or REST API
-#
-# def query_databricks(university, query):
-#     """
-#     Run a query against Databricks (Reddit + RMP data) for the given university.
-#     """
-#     pass
-# ==========================================================
-
-# Ensure environment variable is set correctlyimport os
 import dash
 import dash_bootstrap_components as dbc
 from dash import html, dcc, Input, Output, State
