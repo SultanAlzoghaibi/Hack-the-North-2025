@@ -69,7 +69,7 @@ class DatabricksChatbot:
             print(f"Error fetching context: {e}")
             return "Error fetching course data."
 
-    # ------------------ LLM Call ------------------
+    # ------------------ LLM Call -------------------
     def _call_model_endpoint(self, messages, max_tokens=256):
         try:
             user_query = messages[-1]["content"].strip()

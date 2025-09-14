@@ -13,7 +13,7 @@ from model_serving_utils import is_endpoint_supported
 # def query_databricks(university, user_question):
 #     """
 #     Run a query against Databricks (Reddit + RMP + other data) for the given university
-#     and combine with LLM context to answer the user's question.
+#     and combine with LLM context to answer the user's question. Yes.
 #     """
 #     pass
 # ==========================================================
