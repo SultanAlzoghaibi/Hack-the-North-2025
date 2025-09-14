@@ -35,35 +35,50 @@ class DatabricksChatbot:
         )
 
     def _fetch_course_context(self, user_query):
-        """
-        Query Databricks Unity Catalog table for exact course code matches only.
-        """
         try:
             with self._get_connection() as conn:
                 with conn.cursor() as cur:
                     cur.execute("""
                         SELECT *
                         FROM workspace.default.reddit_posts
-                        WHERE LOWER(course_code) = LOWER(%s)
+                        WHERE LOWER(courseName) = LOWER(?)
                     """, (user_query.strip(),))
                     
                     rows = cur.fetchall()
 
             if not rows:
-                return "No relevant course info found."
+                user_query_list = user_query.strip().split()
+                
+                query = f"""
+                SELECT ai_query('databricks-meta-llama-3-1-405b-instruct', '{user_query}') AS llm_response
+                """
+                with self._get_connection() as conn:
+                    with conn.cursor() as cur:
+                        cur.execute(query)
+                        result = cur.fetchone()
+                        print(f"result: {result['llm_response']}")
+                        return str(result['llm_response'])
 
             context_list = []
             for row in rows:
                 context_list.append(
-                    f"Course: {row.course_code} — {row.course_name}\n"
-                    f"Difficulty: {row.how_hard}\n"
-                    f"Time Consuming: {row.time_consuming}\n"
-                    f"Project vs Theory: {row.project_vs_theory}\n"
-                    f"Resume Value: {row.resume_value}\n"
-                    f"Best Professors: {row.best_professors}\n"
-                    f"Complaints: {row.worst_professors}"
+                    f"Course: {row.courseName}\n"
+                    f"Description: {row.officialDesc}\n"
+                    f"Reddit Data: {row.redditData}\n"
                 )
-            return "\n\n---\n\n".join(context_list)
+
+            query = f"""
+            SELECT ai_query('databricks-meta-llama-3-1-405b-instruct', '{user_query}') AS llm_response
+            """
+
+            with self._get_connection() as conn:
+                with conn.cursor() as cur:
+                    cur.execute(query)
+                    result = cur.fetchone()
+                    print(f"result: {result['llm_response']}")
+                    return str(result['llm_response'])
+            
+
 
         except Exception as e:
             print(f"Error fetching context: {e}")
@@ -177,6 +192,7 @@ class DatabricksChatbot:
             ], className=f"message-container {msg['role']}-container")
             for msg in chat_history if isinstance(msg, dict) and 'role' in msg
         ]
+
 
     def _create_typing_indicator(self):
         return html.Div([
