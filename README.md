@@ -21,6 +21,7 @@ CourseIntelligence aggregates student course discussions from Reddit, merges the
 | Proof of Win (Slack screenshot) |  
 <img width="726" height="101" alt="Screenshot 2025-09-14 at 11 51 44 PM" src="https://github.com/user-attachments/assets/f364bf71-21c2-412b-94ae-27b27744e97e" />
 |
+<img width="685" height="349" alt="Screenshot 2025-09-20 at 1 12 23 PM" src="https://github.com/user-attachments/assets/5b979e7e-55eb-4e9c-9e36-2bfaf324a7ad" />
 
 ---
 
